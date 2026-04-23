@@ -85,7 +85,7 @@ cd PDE-Toolbox
 ### 方式一：安装图形界面工具箱
 
 1. 下载或克隆本仓库。
-2. 在 MATLAB/App Designer 环境中打开 `软件安装包/Launcher.mlappinstall`。
+2. 在 MATLAB/App Designer 环境中打开 `Release/PDE-Toolbox-v2.0.mlappinstall`。
 3. 按提示完成安装。
 4. 启动工具箱后，在模型向导中选择 PDE 类型，配置方程参数、网格、边界条件和初值条件。
 5. 点击“求解”生成二维/三维仿真图像。
